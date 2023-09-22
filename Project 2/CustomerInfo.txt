@@ -1,0 +1,44 @@
+Khalaf
+Khalil
+21000 W.Ten Mile Rd
+Southfield
+MI
+48075
+(313) 333-3333
+true
+
+Ibrahim
+Alhayd
+22040 W 10 Mile Rd
+Southfield
+MI
+48033
+(248) 350-8292
+false
+
+Adrian
+Brooks
+25855 Lahser Rd
+Southfield
+MI
+48033
+(248) 357-3701
+true
+
+Isaac
+Craig
+25203 Evergreen Rd
+Southfield
+MI
+48075
+(248) 262-7844
+true
+
+Austin
+Dikhow
+25050 Northwestern Hwy
+Southfield
+MI
+48075
+(248) 358-0328
+false
